@@ -1,0 +1,51 @@
+{
+  "id": "1972530",
+  "name": "dangdang",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "16558",
+      "name": "脚印",
+      "font_class": "jiaoyin",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "3010034",
+      "name": "五角星",
+      "font_class": "xingzhuang60kaobei2",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "9426672",
+      "name": "ai xin ",
+      "font_class": "aixinfuben",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "12592401",
+      "name": "商城",
+      "font_class": "shangcheng",
+      "unicode": "e74b",
+      "unicode_decimal": 59211
+    },
+    {
+      "icon_id": "13655090",
+      "name": "铃铛",
+      "font_class": "tishi",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "7532886",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    }
+  ]
+}

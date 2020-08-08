@@ -1,0 +1,37 @@
+	@font-face {
+		  font-family: 'iconfont';
+		  src: url('../font_1972530_0zz6zm7krdd/iconfont.eot');
+		  src: url('../font_1972530_0zz6zm7krdd/iconfont.eot?#iefix') format('embedded-opentype'),
+		      url('../font_1972530_0zz6zm7krdd/iconfont.woff2') format('woff2'),
+		      url('../font_1972530_0zz6zm7krdd/iconfont.woff') format('woff'),
+		      url('../font_1972530_0zz6zm7krdd/iconfont.ttf') format('truetype'),
+		      url('../font_1972530_0zz6zm7krdd/iconfont.svg#iconfont') format('svg');
+		  }
+	.iconfont1 {
+		  font-family: "iconfont" !important;
+		  font-size: 1.875rem;
+		  font-style: normal;
+		  -webkit-font-smoothing: antialiased;
+		  -moz-osx-font-smoothing: grayscale;
+		}
+
+
+
+
+#ul5{
+	list-style-type: none;
+	position: fixed;
+	top: 20rem;
+	left: -0.625rem;
+
+}
+#ul5>li{
+	
+	line-height: 1.875rem;
+}
+#ul5>li>a{
+	text-decoration: none;
+	color: black;
+	opacity: 0.7;
+}
+

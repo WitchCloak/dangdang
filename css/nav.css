@@ -1,0 +1,74 @@
+		nav{
+			
+			position: relative;
+			width: 81.5rem;
+			height: 1.875rem;
+			
+
+			/*margin-left: -20px;
+			margin-top: -10px;*/
+			
+		}
+		nav>a{
+			margin-left:  1.875rem;
+			position: relative;
+			display:inline-block; 
+			text-decoration: none;
+			color: #167195;
+			top: 0.215rem;
+			font-size:1.15rem;
+			
+		}
+		@font-face {
+		  font-family: 'iconfont';
+		  src: url('../font_1972530_5p9cscf9owe/iconfont.eot');
+		  src: url('../font_1972530_5p9cscf9owe/iconfont.eot?#iefix') format('embedded-opentype'),
+		      url('../font_1972530_5p9cscf9owe/iconfont.woff2') format('woff2'),
+		      url('../font_1972530_5p9cscf9owe/iconfont.woff') format('woff'),
+		      url('../font_1972530_5p9cscf9owe/iconfont.ttf') format('truetype'),
+		      url('../font_1972530_5p9cscf9owe/iconfont.svg#iconfont') format('svg');
+		  }
+      	.iconfont {
+		  font-family: "iconfont" !important;
+		  font-size: 1.15rem;
+		  font-style: normal;
+		  -webkit-font-smoothing: antialiased;
+		  -moz-osx-font-smoothing: grayscale;
+		}
+		.iconfont2{
+			font-family: "iconfont" !important;
+		  font-size: 1.6rem;
+		  font-style: normal;
+		  -webkit-font-smoothing: antialiased;
+		  -moz-osx-font-smoothing: grayscale;
+		}
+		
+		#div8{
+			position: absolute;
+			top: 2.5rem;
+			left:-0.8125rem;
+			width: 11.25rem;
+			height: 0rem;
+			font-size: 0.3125rem;
+			/*border:0.5px solid black;*/
+			box-shadow: 0.25rem 0.25rem 0.625rem;
+			visibility: hidden;
+		}
+		#a1:hover #div8{
+			height: 5rem;
+			background-color: white;
+			visibility: visible;
+			transition: height 0.3s;
+		}
+		#div9{
+			position: absolute;
+			top: -1.875rem;
+			left: 2.8125rem;
+			
+			width: 0;
+			height: 0;
+			border-top: 0.9375rem solid transparent;
+			border-right: 0.9375rem solid transparent;
+			border-bottom: 0.9375rem solid #fcebeb;
+			border-left: 0.9375rem solid transparent;
+		}

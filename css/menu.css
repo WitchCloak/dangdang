@@ -1,0 +1,25 @@
+		.ul3{
+				width: 100%;
+				padding: 0;
+				margin: 0;
+			}
+		.ul3>li{
+			list-style-type: none;
+			display: inline-block;
+			font-size: 1.25rem;
+			margin-left: 1.25rem;
+
+		}
+		hr{
+			width: 100%;
+			margin: 0;
+			padding: 0;
+			border-color: red;
+		}
+		.ul3>li>a{
+			text-decoration: none;
+			color: black;
+		}
+		#div5{
+			width: 8.75rem;
+		}

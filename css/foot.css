@@ -1,0 +1,72 @@
+.divA{
+	width: 100%;
+	display: inline-block;
+	text-align: center;
+	border-bottom: 0.5px solid #f7a2a2;
+}
+.divA>ul{
+	list-style-type: none;
+
+}
+.divA>ul>li{
+	margin: 3rem;
+	display: inline-block;
+	color: red;
+}
+.divB{
+	width: 100%;
+	display: inline-block;
+	text-align: center;
+	border-bottom: 0.5px solid #f7a2a2;
+}
+.divB>ul{
+	list-style-type: none;
+	display: inline-block;
+
+}
+.divB>ul>li{
+
+	line-height: 1.5rem;
+	color: red;
+}
+.divC{
+	width: 100%;
+	display: inline-block;
+	text-align: center;
+	border-bottom: 0.5px solid #f7a2a2;
+}
+.divC>ul{
+	list-style-type: none;
+}
+.divC>ul>li{
+	width: 5rem;
+	display: inline-block;
+	color: red;
+	 
+}
+.divC>ul :not(:first-child){
+	border-left:0.5px solid #f7a2a2;
+}
+.divD{
+	width: 100%;
+	display: inline-block;
+	text-align: center;
+	color: red;
+}
+.divE{
+	width: 100%;
+	display: inline-block;
+	text-align: center;
+	color: red;
+}
+.divE>ul{
+	list-style-type: none;
+}
+.divE>ul>li{
+	width: 24rem;
+	display: inline-block;
+	color: red;
+}
+.divE>ul :not(:first-child){
+	border-left:0.5px solid #f7a2a2;
+}

@@ -1,0 +1,70 @@
+#lunbodiv>.lunbodiv1{
+			display: inline-block;
+			width: 45rem;
+			height: 31.25rem;
+			
+			
+		}
+		#lunbodiv{
+			overflow: hidden;
+			width:45rem;
+			height: 31.25rem;
+			position: absolute;
+			left: 0rem;
+			/*border: 1px solid black;*/
+		}
+		#lunbodiv1{
+			
+			position: absolute;
+			left: 0rem;
+			
+			
+			
+		}
+		#lunbodiv2{
+			position: absolute;
+			
+			left: 45rem;
+		}
+		#lunbodiv3{
+			
+			position: absolute;
+			left: 90rem;
+		}
+		
+		
+		#go1{
+			position: absolute;
+			left: 17rem;
+			top: 28.125rem;
+		}
+		#go2{
+			position: absolute;
+			left: 24rem;
+			top: 28.125rem;
+		}
+		#go3{
+			position: absolute;
+			left: 30rem;
+			top: 28.125rem;
+		}
+		#go4{
+			position: absolute;
+			left: 0rem;
+			top: 15.625rem;
+			border-radius:1.25rem;
+			opacity: 0.3;
+		}
+		#go4:hover{
+			opacity: 1;
+		}
+		#go5{
+			position: absolute;
+			left: 41.5rem;
+			top: 15.625rem;
+			border-radius:1.25rem;
+			opacity: 0.3;
+		}
+		#go5:hover{
+			opacity: 1;
+		}
