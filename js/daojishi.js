@@ -1,4 +1,4 @@
-var endTime=new Date(2020,8,3,12,35,20);
+var endTime=new Date(2020,8,17,12,35,20);
 
 
 	function GETMILLISECONDS(){
